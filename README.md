@@ -1,4 +1,4 @@
-# Scale institutional knowledge using Copilot Spaces
+# Scale institutional knowledge using Copilot Spaces Run
 
 Learn how Copilot Spaces can scale institutional knowledge and streamline organizational processes.
 
